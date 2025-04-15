@@ -1,3 +1,3 @@
 # Demo
 
-Using Github as a Complete Beginner
+Using Github as a Complete Beginner.
